@@ -1,0 +1,10 @@
+Chapter 3
+
+<<<<<<< HEAD
+It was the spring of hope, it was the winter of despair.
+=======
+Sun was either rising or setting , i couldn't say which.
+
+Alien-Plot
+
+>>>>>>> alien-plot

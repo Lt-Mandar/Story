@@ -1,0 +1,7 @@
+Chapter 1
+
+<<<<<<< HEAD
+It was best of times, it was worse of times.
+=======
+Alien-Plot
+>>>>>>> alien-plot

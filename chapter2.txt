@@ -1,0 +1,7 @@
+Chapter 2
+
+<<<<<<< HEAD
+It was age of wisdom, it was age of foolishness.
+=======
+Alien-Plot
+>>>>>>> alien-plot
